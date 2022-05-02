@@ -11,10 +11,3 @@ Jdk 17 med kotlin og node 16.
 
 ## Enkel arkitektur 
 ![img.png](img.png)
-
-
-## Backend
-Prosject basert på spring boot og kotlin 
-
-## Frontend
-Prosject basert på react app og bootstrap
