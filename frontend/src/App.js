@@ -16,7 +16,7 @@ const App = () => (
   <MemoryRouter>
     <Container className="p-3">
       <h1>Legehjelpen</h1>
-      <h2>Velkommen til legehjelpen! For raskest mulig hjelp følg denne guiden</h2>
+      <h2>Velkommen til legehjelpen! For raskest og best mulig behandling følg denne guiden!</h2>
       <Row>
        <Container className="p-3">
         <Row>
@@ -30,6 +30,20 @@ const App = () => (
       </Col>
       <Col>
           <Image thumbnail="true" src="https://cdn-icons-png.flaticon.com/512/30/30730.png"></Image>
+      </Col>
+      <Col>
+          <Image thumbnail="true" src="https://cdn-icons-png.flaticon.com/512/467/467717.png"></Image>
+      </Col>
+    </Row>
+    <Row>
+      <Col>
+          <Image thumbnail="true" src="https://cdn-icons-png.flaticon.com/512/709/709612.png"></Image>
+      </Col>
+      <Col>
+          <Image thumbnail="true" src="https://cdn-icons-png.flaticon.com/512/2950/2950146.png"></Image>
+      </Col>
+      <Col>
+          <Image thumbnail="true" src="https://cdn-icons-png.flaticon.com/512/4807/4807743.png"></Image>
       </Col>
     </Row>
     </Container>
